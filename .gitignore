@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+instance/
+*.db
+venv/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
